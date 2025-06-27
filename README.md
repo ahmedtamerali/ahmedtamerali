@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ahmed Tamer Ali
 
-<!--
-**ahmedtamerali/ahmedtamerali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a STEM student learning web development.
 
-Here are some ideas to get you started:
+Currently:
+- Practicing responsive web design on freeCodeCamp
+- Learning HTML, CSS, and GitHub
+- Preparing for freelance work after completing my first projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soon:
+- Uploading my own websites here
+- Sharing my portfolio for real freelance clients
+
+📬 Contact me at: ahmedtamerali50@gmail.com
