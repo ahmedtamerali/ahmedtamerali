@@ -4,7 +4,7 @@ I'm a STEM student learning web development.
 
 Currently:
 - Practicing responsive web design on freeCodeCamp
-- Learning HTML, CSS, and GitHub
+- Learning HTML, CSS, and JS
 - Preparing for freelance work after completing my first projects
 
 Soon:
